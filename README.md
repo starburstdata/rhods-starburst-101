@@ -19,7 +19,7 @@
 
 With **Starburst**, Data Scientists and Developers will be able to quickly and easily combine data from multiple sources to perform comprehensive analyses for their organizations.
 
-**Starburst Galaxy** is the SaaS offering of Starburst.
+**Starburst Galaxy** is the fully managed offering of Starburst.
 
 **Starburst Enterprise** is the self-managed offering of Starburst.
 
